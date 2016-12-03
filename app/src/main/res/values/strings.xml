@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IAK</string>
+    <string name="value">3</string>
+    <string name="string_btn_call">Call</string>
+</resources>
